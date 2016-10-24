@@ -20,6 +20,7 @@
 
     <name>hazelcast</name>
     <artifactId>hazelcast</artifactId>
+    <version>3.7.2-jahia1-SNAPSHOT</version>
     <description>Core Hazelcast Module</description>
     <packaging>jar</packaging>
 
