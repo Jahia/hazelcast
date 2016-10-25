@@ -41,7 +41,7 @@ public interface HazelcastOSGiService {
      * to each Hazelcast bundle.
      */
     String HAZELCAST_OSGI_GROUPING_DISABLED = "hazelcast.osgi.grouping.disabled";
-    
+
     /**
      * System property for disabling the JSR-223 script engine scan by the Hazelcast OSGI service.
      */
